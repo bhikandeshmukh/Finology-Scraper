@@ -40,7 +40,7 @@ pip install requests beautifulsoup4 tqdm
 2. **Run the Script:**  
    Execute the script in a terminal:
    ```bash
-   python script.py
+   python main.py
    ```
 
 3. **View the Results:**  
